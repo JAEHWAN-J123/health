@@ -14,7 +14,7 @@ export default function Footer(props){
     'height':'100px',
     'background-color':"#eee",
     "justify-content":"space-around",
-    "font-size":"18px",
+    "font-size":"15px",
     "line-height":"100px",
     "border-top":"1px solid #ddd"
   }

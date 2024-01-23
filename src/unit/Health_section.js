@@ -35,7 +35,7 @@ export default function Health_unit(props) {
     "left":"50%",
     "transform":"translate(-50%)",
     "top":"400px",
-    "font-size":"20px",
+    "font-size":"15px",
     "line-height":"30px"
  };
 
@@ -46,7 +46,7 @@ export default function Health_unit(props) {
     "left":"50%",
     "transform":"translate(-50%)",
     "top":"400px",
-    "font-size":"20px",
+    "font-size":"15px",
     "line-height":"30px"
   };
 const img_click = (section) => {

@@ -15,6 +15,7 @@
 }
 body{
   margin: 0 auto;
+  font-size: 0.75rem;
   font-family: R_maple;
 }
 
@@ -95,8 +96,8 @@ li{
 
 .Title_Wrap{
   text-align: center;
-  line-height: 35px;
-  font-size: 20px;
+  line-height: 30px;
+  font-size: 15px;
 }
 
 
@@ -108,18 +109,7 @@ li{
   margin: 5px auto;
 }
 
-.text{
-  width: 600px;
-  height: 100%;
-  margin-top: 20px;
-  margin-left: 20px;
-  line-height: 25px;
-}
 
-.text > p:nth-child(1){
-  font-size: 30px;
-  margin-bottom:15px ;
-}
 
 .unit{
   padding: 50px 100px;
@@ -133,7 +123,7 @@ li{
 
 .History_box01>p{
   width:980px;
-  font-size: 20px;
+  font-size: 15px;
   padding-top: 30px;
 }
 
@@ -151,7 +141,6 @@ li{
 
 .history_box03{
   line-height: 30px;
-  font-size: 20px;
 }
 
 .history_box03 h2{
@@ -161,7 +150,7 @@ li{
 .history_box02>p{
   margin-top: 5px;
   line-height:25px;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 .H_span{

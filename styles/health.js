@@ -37,7 +37,7 @@ height:auto;
 background-color:#faf5f1;
 border-radius:20px;
 padding:60px;
-font-size:18px;
+font-size:15px;
 margin:50px auto;
 `
 
